@@ -1,0 +1,21 @@
+{
+  "name": "udemy-unit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.0",
+    "sinon": "^7.5.0",
+    "sinon-chai": "^3.3.0"
+  }
+}
